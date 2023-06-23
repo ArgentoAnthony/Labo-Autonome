@@ -5,8 +5,6 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaboAutoAnimalerie", "LaboAutoAnimalerie.csproj", "{42589518-6C97-45AE-B577-5D38F4625D86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGAutonome", "..\RPGAutonome\RPGAutonome.csproj", "{A05390F4-66A2-426D-AA26-4FD18FE54097}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{42589518-6C97-45AE-B577-5D38F4625D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42589518-6C97-45AE-B577-5D38F4625D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42589518-6C97-45AE-B577-5D38F4625D86}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A05390F4-66A2-426D-AA26-4FD18FE54097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A05390F4-66A2-426D-AA26-4FD18FE54097}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A05390F4-66A2-426D-AA26-4FD18FE54097}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A05390F4-66A2-426D-AA26-4FD18FE54097}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
